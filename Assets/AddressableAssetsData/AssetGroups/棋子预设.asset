@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: "\u68CB\u5B50\u9884\u8BBE"
+  m_EditorClassIdentifier: 
+  m_GroupName: "\u68CB\u5B50\u9884\u8BBE"
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8680d8a5b0f2f7145a34c87cd7303427
+  m_SerializeEntries:
+  - m_GUID: 04b80a85b053bf549b3c4ff9a9ce39d0
+    m_Address: "\u68CB\u5B50/RossettaHumanlike.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 530fe11582d6646408b613bdcc43ee28
+    m_Address: "\u68CB\u5B50/QiShiPulseMeteor.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 88634b97060c7e9449a71117a435a516
+    m_Address: "\u68CB\u5B50/LuciaCrowFeatherHaze.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fcb5dc3af55268849b3d7fbf7f1aa4eb
+    m_Address: "\u68CB\u5B50/Qu.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4fde77d4d8db75e49916035adf84c97b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 09f38db01647b7040b7e0a05e54ce1a1, type: 2}
+    - {fileID: 11400000, guid: b056727d35149ac4b877eb792649a1ae, type: 2}

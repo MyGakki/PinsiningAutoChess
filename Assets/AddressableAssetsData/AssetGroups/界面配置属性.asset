@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: "\u754C\u9762\u914D\u7F6E\u5C5E\u6027"
+  m_EditorClassIdentifier: 
+  m_GroupName: "\u754C\u9762\u914D\u7F6E\u5C5E\u6027"
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 27ce15c571016854097eef00bd424f95
+  m_SerializeEntries:
+  - m_GUID: 5c3d30897cc186d41996bcf6536abf0e
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/UIView_HpMpBar.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIConfig
+  - m_GUID: 5e4b39c5d2c38bf43a990569c35bbb70
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/UIView_Main.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIConfig
+  - m_GUID: bd49eaf6865a2f34ea09fbc5782de7a5
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/UIView_StartGame.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIConfig
+  - m_GUID: d3b9f0674fd03964b9709b7dd3f3c5be
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/UIView_TopologicalMap.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIConfig
+  - m_GUID: fccae552bd6e46642b2d6a88971a8846
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/UIView_DamageFigure.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UIConfig
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4fde77d4d8db75e49916035adf84c97b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 64373ee4e3cb8a6488b4663811f734ca, type: 2}
+    - {fileID: 11400000, guid: 14dfb502cba553b459114859ee3cbf21, type: 2}

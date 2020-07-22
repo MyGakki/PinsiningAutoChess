@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: "\u68CB\u5B50\u914D\u7F6E\u5C5E\u6027"
+  m_EditorClassIdentifier: 
+  m_GroupName: "\u68CB\u5B50\u914D\u7F6E\u5C5E\u6027"
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 951fcc06e1d246d44b6f70f9adac672b
+  m_SerializeEntries:
+  - m_GUID: b1637649b01d32e47b768e51bab78118
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/Qu.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BattleUnitConfig
+  - m_GUID: bf85ca3105937f446a619371ff1997a2
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/QiShiPulseMeteor.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BattleUnitConfig
+  - m_GUID: e0b39c515df5ca541ba1836e9fa8bfcc
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/RossettaHumanlike.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BattleUnitConfig
+  - m_GUID: e443acc62a813964b9233d2d380b91d1
+    m_Address: "\u914D\u7F6E\u5C5E\u6027/LuciaCrowFeatherHaze.asset"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BattleUnitConfig
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4fde77d4d8db75e49916035adf84c97b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2984854fea614704385de06ce56aa81d, type: 2}
+    - {fileID: 11400000, guid: 638b9802ce8a92d4a97ae790fbc2c506, type: 2}

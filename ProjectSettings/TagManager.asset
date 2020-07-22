@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Battle_Map
+    uniqueID: 3126453667
+    locked: 0
+  - name: View_Backgroud
+    uniqueID: 971272549
+    locked: 0
+  - name: View_Base
+    uniqueID: 3449679347
+    locked: 0
+  - name: View_HUD
+    uniqueID: 4213840589
+    locked: 0
+  - name: View_Popup
+    uniqueID: 910054709
+    locked: 0
+  - name: View_Top
+    uniqueID: 1501669363
+    locked: 0
+  - name: View_Debug
+    uniqueID: 3255657679
+    locked: 0

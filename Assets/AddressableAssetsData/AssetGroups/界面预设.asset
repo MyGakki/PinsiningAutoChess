@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: "\u754C\u9762\u9884\u8BBE"
+  m_EditorClassIdentifier: 
+  m_GroupName: "\u754C\u9762\u9884\u8BBE"
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 442aabf441df92c42af78e47de31a304
+  m_SerializeEntries:
+  - m_GUID: 28fe15d11c4be6044991f1bfe2d977a8
+    m_Address: "\u754C\u9762/UIView_Main.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 595415fd43a9ee64382e3d4abd6d37fd
+    m_Address: "\u754C\u9762/UIView_StartGame.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59e77ccd47358d94998329077f09617f
+    m_Address: "\u754C\u9762/UIView_DamageFigure.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fd1b8a43c0da284194a0dc490783797
+    m_Address: "\u754C\u9762/UIView_HpMpBar.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d9dcf1e761ed72347a8f648a48f32a6f
+    m_Address: "\u754C\u9762/UIView_TopologicalMap.prefab"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4fde77d4d8db75e49916035adf84c97b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4168d6ba84762524f8b128a4b0fd3882, type: 2}
+    - {fileID: 11400000, guid: e5d707da861e843428252dd075c45627, type: 2}
